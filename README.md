@@ -1,0 +1,3 @@
+-  Hi, I’m @TayDu
+-  I’m interested in programming
+-  I’m currently learning CTP Matapalo
